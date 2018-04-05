@@ -11,9 +11,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-/**
- * Created by aluno on 04/04/18.
- */
 
 public class AdapterAlunos extends BaseAdapter {
 

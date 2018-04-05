@@ -12,10 +12,6 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by aluno on 04/04/18.
- */
-
 public class ListaAlunos extends AppCompatActivity {
 
     private AdapterAlunos adapterAlunos;
